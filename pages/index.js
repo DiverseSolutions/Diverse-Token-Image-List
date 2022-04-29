@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="min-h-screen w-full flex-col flex justify-center items-center">
+      <main className="flex flex-col items-center justify-center w-full min-h-screen">
         <h1 className="text-5xl font-bold"><span className="text-blue-600">Diverse</span> Token Image</h1>
         <p className="mt-4 text-xl font-light">Public Server For Token Images</p>
       </main>
